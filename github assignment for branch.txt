@@ -1,0 +1,13 @@
+1. Find a friend
+2. Create a repo in GitHub
+3. Clone the repo locally (https or ssh keys)
+4. Each user create a branch called <username>
+a. (checkout branch)
+5. Create a file called <whatever>, add some text.
+6. *git add
+7. *git commit
+8. *git push
+9. Pull
+a. Master to username branch
+b. Username branch to master
+
